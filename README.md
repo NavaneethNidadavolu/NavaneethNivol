@@ -3,7 +3,7 @@
 ### About 🙋🏻‍♂️
 ```javascript
 name = "Navaneeth Nivol"
-who_i_am = ['Developer','Engineer','Introvert', 'Vizagite']
+who_i_am = ['Developer', 'Engineer', 'Introvert', 'Open Source Enthusiast', 'Vizagite']
 age = 21
 ```
 
