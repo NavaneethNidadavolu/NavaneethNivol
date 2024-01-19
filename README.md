@@ -4,7 +4,7 @@
 ```javascript
 name = "Navaneeth Nivol"
 who_i_am = ['Developer', 'Engineer', 'Introvert', 'Open Source Enthusiast', 'Vizagite']
-age = 21
+age = 24
 ```
 
 ### My Skills 👨‍💻
