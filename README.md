@@ -1,12 +1,5 @@
 ### Hi there 👋
 
-### About 🙋🏻‍♂️
-```javascript
-name = "Navaneeth Nivol"
-who_i_am = ['Developer', 'Engineer', 'Introvert', 'Open Source Enthusiast', 'Vizagite']
-age = 24
-```
-
 ### My Skills 👨‍💻
 
 <img align="left" alt="Python" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/python.svg" />
